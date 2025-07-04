@@ -1,0 +1,33 @@
+# === Archivos ignorados en PreEntrega1 ===
+PreEntrega1/Guía de Actividades hacia el PF - Data Analytics V3.pdf
+PreEntrega1/Libro1.xlsx
+PreEntrega1/videogames Felipe Torres.docx
+
+# === Archivos ignorados en PreEntrega2 ===
+PreEntrega2/Guía de Actividades hacia el PF - Data Analytics V3.pdf
+PreEntrega2/videogames Felipe Torres.docx
+
+# === Archivos ignorados en PreEntrega3 ===
+PreEntrega3/ScriptMoverMedidas.csx
+PreEntrega3/Tabla de Medidas.xlsx
+PreEntrega3/Video Games - copia.pbix
+PreEntrega3/videogames Felipe Torres.docx
+
+# === Archivos ignorados en EntregaFinal ===
+EntregaFinal/ScriptMoverMedidas.csx
+EntregaFinal/Tabla de Medidas.xlsx
+EntregaFinal/videogames Felipe Torres.docx
+
+# === Archivos temporales y de sistema (comunes a todas las carpetas) ===
+*.tmp
+*.log
+*.bak
+*.DS_Store
+Thumbs.db
+~$*                    # Archivos temporales de Office
+*.swp                  # Temporales de editores como Vim
+*.lnk                  # Accesos directos de Windows
+*.class                # Archivos compilados de Java
+.vscode/
+__pycache__/
+node_modules/
